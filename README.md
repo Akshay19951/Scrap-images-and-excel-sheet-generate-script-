@@ -1,4 +1,4 @@
-# Scrap-images-and-excel-sheet-generate-script-
+# Scrap-images-and-excel-sheet-generate-script
 Just copy XPath 
 $xpath = '//*[@id="tiles"]/li/a/div/div/img';
 
